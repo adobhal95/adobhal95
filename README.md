@@ -15,12 +15,12 @@
     <li>Exploring modern data stack tools.</li>
     <li>📚 Learning Kafka, Airflow, Spark, Data Lakes, and Cloud Platforms(GCP).</li>
     <li>🛠️ Building projects using FastAPI, PostgreSQL, Kafka, and Snowflake.</li>
-    <li>Learning Real-time data streaming.</li>
+    <li>📚 Learning Real-time data streaming.</li>
     <li>🎯 Preparing for roles in Data Engineering & ETL Pipelines.</li>
   </ul>
 <ul>
 </div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰️ Tech Stack:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,dart,flutter,bash,git,gcp,postgres,mongodb&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=py,dart,flutter,bash,git,gcp,postgres,mongodb"/>
 </p>
