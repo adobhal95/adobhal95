@@ -10,9 +10,9 @@
 </div>
 <p align="left">I'm a Software Engineer currently working as a Mobile Application Developer, passionate about building scalable and user-centric mobile apps. Recently, I've been expanding my skills in <strong>Data Engineering</strong>, with a focus on <i>data pipelines</i>, <i>distributed systems</i>, and <i>cloud-native architectures</i>.</p>
 <div align='left'>
-  <p>🚀 What I'm Up To</p>
+  <p>🚀 What I'm Up To:</p>
   <ul>
-    <li>Exploring modern data stack tools.</li>
+    <li>🔎 Exploring modern data stack tools.</li>
     <li>📚 Learning Kafka, Airflow, Spark, Data Lakes, and Cloud Platforms(GCP).</li>
     <li>🛠️ Building projects using FastAPI, PostgreSQL, Kafka, and Snowflake.</li>
     <li>📚 Learning Real-time data streaming.</li>
