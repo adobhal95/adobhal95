@@ -14,3 +14,6 @@
 </ul>
 </div>
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,dart,flutter,bash,git,gcp?perline=3"/>
+</p>
