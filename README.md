@@ -4,14 +4,21 @@
   <a href='https://www.linkedin.com/in/dobhalabhi'>
     <img height=20px src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
+  <a href='mailto:abhishekdobhal@proton.me'>
+    <img height=20px src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+  </a>
 </div>
 <p align="left">I'm a Software Engineer currently working as a Mobile Application Developer, passionate about building scalable and user-centric mobile apps. Recently, I've been expanding my skills in <strong>Data Engineering</strong>, with a focus on <i>data pipelines</i>, <i>distributed systems</i>, and <i>cloud-native architectures</i>.</p>
 <div align='left'>
-  <p>📚 Always curious and continuously learning — currently exploring:</p>
+  <p>🚀 What I'm Up To</p>
+  <ul>
+    <li>Exploring modern data stack tools.</li>
+    <li>📚 Learning Kafka, Airflow, Spark, Data Lakes, and Cloud Platforms(GCP).</li>
+    <li>🛠️ Building projects using FastAPI, PostgreSQL, Kafka, and Snowflake.</li>
+    <li>Learning Real-time data streaming.</li>
+    <li>🎯 Preparing for roles in Data Engineering & ETL Pipelines.</li>
+  </ul>
 <ul>
-  <li>Modern data stack tools</li>
-  <li>Real-time data streaming</li>
-</ul>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
