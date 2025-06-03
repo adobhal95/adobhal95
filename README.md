@@ -14,6 +14,6 @@
 </ul>
 </div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=py,dart,flutter,bash,git,gcp,postgres,mongodb&perline=4"/>
 </p>
