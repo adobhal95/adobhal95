@@ -4,5 +4,5 @@
     <img height=20px src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
 </div>
-<p align="left">I'm a Software Engineer currently working as a Mobile Application Developer, passionate about building scalable and user-centric mobile apps. Recently, I've been expanding my skills in Data Engineering, with a focus on data pipelines, distributed systems, and cloud-native architectures.</h3>
+<p align="left">I'm a Software Engineer currently working as a Mobile Application Developer, passionate about building scalable and user-centric mobile apps. Recently, I've been expanding my skills in <strong>Data Engineering</strong>, with a focus on <i>data pipelines</i>, distributed systems, and cloud-native architectures.</h3>
 <h3 align="left">Languages and Tools:</h3>
