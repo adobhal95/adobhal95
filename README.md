@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=800&color=C7CA96&background=F48DFF00&center=true&vCenter=true&width=435&lines=......' alt='Typing SVG'/>
+<div align="center"><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=8000&pause=800&color=F1E1EA&background=F48DFF00&multiline=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Abhishek' alt='Typing SVG'/>
+</div>
 <div align='left'>
   <a href='https://www.linkedin.com/dobhalabhi'>
     <img height=20px src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
