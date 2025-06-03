@@ -5,5 +5,12 @@
     <img height=20px src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
 </div>
+<div align='left'>
+  <p>📚 Always curious and continuously learning — currently exploring:</p>
+<ul>
+  <li>Modern data stack tools</li>
+  <li>Real-time data streaming</li>
+</ul>
+</div>
 <p align="left">I'm a Software Engineer currently working as a Mobile Application Developer, passionate about building scalable and user-centric mobile apps. Recently, I've been expanding my skills in <strong>Data Engineering</strong>, with a focus on <i>data pipelines</i>, <i>distributed systems</i>, and <i>cloud-native architectures</i>.</h3>
 <h3 align="left">Languages and Tools:</h3>
